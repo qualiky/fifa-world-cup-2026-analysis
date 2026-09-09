@@ -1,0 +1,3 @@
+[submodule "data/fifa-2026"]
+	path = data/fifa-2026
+	url = https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset.git
